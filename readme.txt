@@ -3,4 +3,6 @@ Git is free software
 append GPL
 firstly....
 Git creating branch is quick
-creating new branch is quick &simple
+
+Creating new branch is quicl AND simple
+
