@@ -1,4 +1,6 @@
 Git is disturbed version control system
 Git is free software
 append GPL
-firstly.....
+firstly....
+Git creating branch is quick
+
