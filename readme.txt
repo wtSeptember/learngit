@@ -5,4 +5,4 @@ firstly....
 Git creating branch is quick
 
 Creating new branch is quicl AND simple
-
+add merger
